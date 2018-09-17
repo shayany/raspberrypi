@@ -1,1 +1,1 @@
-#This directory contains my personal Raspberry Pi projects
+# This directory contains my personal Raspberry Pi projects
